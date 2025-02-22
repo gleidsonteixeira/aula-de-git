@@ -12,4 +12,4 @@ alteração feita pelo reforço dev.
 
 conteudo que só existe na development
 
-tentando contribuir em um projeto que não sou colaborado
+tentando contribuir em um projeto que não sou colaborador
