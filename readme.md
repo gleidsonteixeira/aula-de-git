@@ -8,4 +8,4 @@ Nova implementação
 
 Outra alteração feita em outro computador
 
-alteração feita pelo reforço dev
+alteração feita pelo reforço dev.
